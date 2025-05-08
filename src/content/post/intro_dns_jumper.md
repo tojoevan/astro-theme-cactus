@@ -6,6 +6,8 @@ tags: ["dns", "jumper", "windows", "神器"]
 ogImage: "/social-card.png"
 ---
 
-## DnsJumper是一款检测和应用DNS(域名系统)的切换工具
+## DnsJumper一款检测和应用DNS的切换工具
 
 [dns jumper](https://www.sordum.org/7952/dns-jumper-v2-3/)
+
+![界面](https://www.sordum.org/wp-content/uploads/2020/03/dns_jumper_main_gui.png)
