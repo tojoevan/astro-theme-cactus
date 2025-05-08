@@ -16,7 +16,8 @@ export const siteConfig: SiteConfig = {
 	// Used as the default description meta property and webmanifest description
 	description: "An opinionated starter theme for Astro",
 	// HTML lang property, found in src/layouts/Base.astro L:18 & astro.config.ts L:48
-	lang: "en-GB",
+	lang: "zh-CN"
+	//"en-GB",
 	// Meta property, found in src/components/BaseHead.astro L:42
 	ogLocale: "en_GB",
 	/* 
@@ -25,7 +26,7 @@ export const siteConfig: SiteConfig = {
 		- The link value found in src/components/layout/Header.astro L:35
 		- In the footer found in src/components/layout/Footer.astro L:12
 	*/
-	title: "Astro Cactus",
+	title: "开源简读 公众号 同步",
 	// ! Please remember to replace the following site property with your own domain, used in astro.config.ts
 	url: "https://astro-cactus.chriswilliams.dev/",
 };
@@ -55,7 +56,7 @@ export const expressiveCodeOptions: AstroExpressiveCodeOptions = {
 	styleOverrides: {
 		borderRadius: "4px",
 		codeFontFamily:
-			'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace',
+			'Helvetica, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace',
 		codeFontSize: "0.875rem",
 		codeLineHeight: "1.7142857rem",
 		codePaddingInline: "1rem",
